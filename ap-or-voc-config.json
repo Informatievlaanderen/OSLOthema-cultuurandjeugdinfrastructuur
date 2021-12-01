@@ -1,20 +1,25 @@
 {
-    "naam": "",
-    "rapport" : "",
+    "naam": "Vocabularium en applicatieprofiel cultuur- & jeugdinfrastructuur",
+    "rapport": "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
-    "publicatiedatum": "",
-    "type_toepassing": "",
-    "categorie": "",
-    "beschrijving" : "",
+    "publicatiedatum": "TBD",
+    "type_toepassing": "TBD",
+    "categorie": "Vocabularium en applicatieprofielen",
+    "beschrijving": "template-description.md",
     "specificatiedocument": [],
     "documentatie": [],
-    "charter": [],
+    "charter": [
+        {
+            "naam": "Werkgroep Charter Consent (TRAPEZE)",
+            "waarde": "20211018_Werkgroep charter OSLO Basisinventaris cultuur- en jeugdinfrastructuur.docx"
+        }
+    ],
     "verslagen": [],
     "presentaties": [],
-    "functioneel_toepassingsgebied": "",
-    "organisatorisch_werkingsgebied": "",
-    "datum_van_aanmelding": "",
-    "erkenning_werkgroep_datastandaarden": "",
-    "erkenning_stuurgroep": ""
-  }
+    "functioneel_toepassingsgebied": "TBD",
+    "organisatorisch_werkingsgebied": "TBD",
+    "datum_van_aanmelding": "TBD",
+    "erkenning_werkgroep_datastandaarden": "TBD",
+    "erkenning_stuurgroep": "TBD"
+}
