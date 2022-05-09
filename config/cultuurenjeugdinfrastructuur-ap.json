@@ -2,7 +2,7 @@
   {
     "name": "cultuurenjeugdinfrastructuur-ap",
     "type": "ap",
-    "eap": "MijnApplicatieprofiel-CENJImetObjectdiagrammen.eap",
+    "eap": "CultuurEnJeugdinfrastructuur.eap",
     "diagram": "OSLO-CultuurEnJeugdinfrastructuur",
     "template": "cultuurenjeugdinfrastructuur-ap.j2",
     "title": "Cultuur- en jeugdinfrastructuur",
