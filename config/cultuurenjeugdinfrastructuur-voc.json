@@ -2,16 +2,16 @@
   {
     "name": "cultuurenjeugdinfrastructuur-voc",
     "type": "voc",
-    "eap": "MijnApplicatieprofiel-CENJImetObjectdiagrammen.eap",
+    "eap": "CultuurEnJeugdinfrastructuur.eap",
     "diagram": "OSLO-CultuurEnJeugdinfrastructuur",
     "template": "cultuurenjeugdinfrastructuur-voc.j2",
-    "title": "Cultuur- en jeugdinfrastructuur",
+    "title": "Cultuur- en jeugdinfrastructuur - Vocabularium",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
     "publication-date": "2022-03-21",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "MijnKolom",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-cultuurandjeugdinfrastructuur/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-cultuur-en-jeugdinfrastructuur.html"
   }
 ]
