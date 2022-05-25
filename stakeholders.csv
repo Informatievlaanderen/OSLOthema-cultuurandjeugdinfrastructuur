@@ -1,35 +1,35 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
-Hans;Van der Linden;Departement Cultuur, Jeugd en Media;hans.vanderlinden@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;A
-Jitse;De Cock;PwC;jitse.c.cock@pwc.com;https://www.pwc.be/;E
-Eva;De Rore;PwC;eva.de.rore@pwc.com;https://www.pwc.be/;E
-Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://www.vlaanderen.be/intern;E
-Michael;Mampaey;NSX;michael.mampaey@nsx.normalizedsystems.org;https://normalizedsystems.org/;E
-Dirk;Desmedt;NSX;dirk.desmedt@nsx.normalizedsystems.org;https://normalizedsystems.org/;E
-Johan;Daniëls;Departement Cultuur, Jeugd en Media;johan.daniels@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C
-Thomas;Buijs;Departement Cultuur, Jeugd en Media;thomas.buijs@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C
-Anne-Sofie;Verheyen;Departement Cultuur, Jeugd en Media;annesofie.verheyen@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C
-Erik;Van Cauter;Departement Cultuur, Jeugd en Media;erik.vancauter@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C
-Ben;Gabriëls;Departement Cultuur, Jeugd en Media;ben.gabriels@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C
-José;Rotsaert;Departement Cultuur, Jeugd en Media;jose.rotsaert@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C
-Yannick;Dekens;VZW De Rand;yannick.dekens@derand.be;https://www.derand.be/;C
-Geert;Martin;Toerisme Vlaanderen;geert.martin@toerismevlaanderen.be;https://toerismevlaanderen.be/nl;C
-Rein;Meus;Toerisme Vlaanderen;rein.meus@toerismevlaanderen.be;https://toerismevlaanderen.be/nl;C
-Gudrun;De Fauw;District09 - Groep Gent;gudrun.defauw@district09.gent;https://district09.gent/nl;C
-Karel;De Rudder;Publiq vzw;karel.derudder@publiq.be;https://www.publiq.be/;C
-Anne;Ceulebroeck;Vlaams Centrum voor Circuskunsten;anne@circuscentrum.be;https://www.circuscentrum.be/;C
-Frederik;Vercammen;Centrum voor Jeugdtoerisme;OND01@cjt.be;https://cjt.be/;C
-Steven;Vandenoortgaete;Cultuurconnect;steven.vandenoortgaete@cultuurconnect.be;https://www.cultuurconnect.be/;C
-Chris;Van Goethem;Kenniscentrum Podiumtechnieken RITCS - EhB;chris.van.goethem@ehb.be;https://www.podiumtechnieken.be/;C
-Valérie;Adriaens;KU Leuven - LIBIS;valerie.adriaens@kuleuven.be;https://bib.kuleuven.be/libis;C
-Wouter;Vanderstede;Kind en Samenleving;wvanderstede@k-s.be;https://k-s.be/;C
-Danny;Naert;Stad Gent;danny.naert@stad.gent;https://stad.gent/nl;C
-Stephanie;Vermeulen;Stad Gent;stephanie.vermeulen@stad.gent;https://stad.gent/nl;C
-Igor;Laevaert;Stad Gent;igor.laevaert@stad.gent;https://stad.gent/nl;C
-Filip;Stallaert;Bataljong;filip.stallaert@bataljong.be;https://bataljong.be/;C
-Frederik;Dhont;Socius;fred.dhont@socius.be;https://socius.be/;C
-Geerte;Marreel;KSA Nationaal;geerte.marreel@ksa.be;https://www.ksa.be/;C
-Lies;De Backere;Stepp vzw;info@stepp.be;http://www.stepp.be/;C
-Simon;Leenknegt;Kunstenpunt;simon@kunsten.be;https://www.kunsten.be/en/;C
-Bert;Moerman;Gemeente Knokke-Heist;bert.moerman@knokke-heist.be;https://www.knokke-heist.be/;C
-Bram;Wiercx;FARO;bram.wiercx@faro.be;https://faro.be/;C
-Nick;Beerens;Formaat vzw;nick.beerens@formaat.be;https://formaat.be/;C
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
+Hans;Van der Linden;Departement Cultuur, Jeugd en Media;hans.vanderlinden@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;A;
+Jitse;De Cock;PwC;jitse.c.cock@pwc.com;https://www.pwc.be/;E;
+Eva;De Rore;PwC;eva.de.rore@pwc.com;https://www.pwc.be/;E;
+Geert;Thijs;Digitaal Vlaanderen;geert.thijs@vlaanderen.be;https://www.vlaanderen.be/intern;E;
+Michael;Mampaey;NSX;michael.mampaey@nsx.normalizedsystems.org;https://normalizedsystems.org/;E;
+Dirk;Desmedt;NSX;dirk.desmedt@nsx.normalizedsystems.org;https://normalizedsystems.org/;E;
+Johan;Daniï¿½ls;Departement Cultuur, Jeugd en Media;johan.daniels@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C;
+Thomas;Buijs;Departement Cultuur, Jeugd en Media;thomas.buijs@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C;
+Anne-Sofie;Verheyen;Departement Cultuur, Jeugd en Media;annesofie.verheyen@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C;
+Erik;Van Cauter;Departement Cultuur, Jeugd en Media;erik.vancauter@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C;
+Ben;Gabriï¿½ls;Departement Cultuur, Jeugd en Media;ben.gabriels@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C;
+Josï¿½;Rotsaert;Departement Cultuur, Jeugd en Media;jose.rotsaert@vlaanderen.be;https://www.vlaanderen.be/cjm/nl;C;
+Yannick;Dekens;VZW De Rand;yannick.dekens@derand.be;https://www.derand.be/;C;
+Geert;Martin;Toerisme Vlaanderen;geert.martin@toerismevlaanderen.be;https://toerismevlaanderen.be/nl;C;
+Rein;Meus;Toerisme Vlaanderen;rein.meus@toerismevlaanderen.be;https://toerismevlaanderen.be/nl;C;
+Gudrun;De Fauw;District09 - Groep Gent;gudrun.defauw@district09.gent;https://district09.gent/nl;C;
+Karel;De Rudder;Publiq vzw;karel.derudder@publiq.be;https://www.publiq.be/;C;
+Anne;Ceulebroeck;Vlaams Centrum voor Circuskunsten;anne@circuscentrum.be;https://www.circuscentrum.be/;C;
+Frederik;Vercammen;Centrum voor Jeugdtoerisme;OND01@cjt.be;https://cjt.be/;C;
+Steven;Vandenoortgaete;Cultuurconnect;steven.vandenoortgaete@cultuurconnect.be;https://www.cultuurconnect.be/;C;
+Chris;Van Goethem;Kenniscentrum Podiumtechnieken RITCS - EhB;chris.van.goethem@ehb.be;https://www.podiumtechnieken.be/;C;
+Valï¿½rie;Adriaens;KU Leuven - LIBIS;valerie.adriaens@kuleuven.be;https://bib.kuleuven.be/libis;C;
+Wouter;Vanderstede;Kind en Samenleving;wvanderstede@k-s.be;https://k-s.be/;C;
+Danny;Naert;Stad Gent;danny.naert@stad.gent;https://stad.gent/nl;C;
+Stephanie;Vermeulen;Stad Gent;stephanie.vermeulen@stad.gent;https://stad.gent/nl;C;
+Igor;Laevaert;Stad Gent;igor.laevaert@stad.gent;https://stad.gent/nl;C;
+Filip;Stallaert;Bataljong;filip.stallaert@bataljong.be;https://bataljong.be/;C;
+Frederik;Dhont;Socius;fred.dhont@socius.be;https://socius.be/;C;
+Geerte;Marreel;KSA Nationaal;geerte.marreel@ksa.be;https://www.ksa.be/;C;
+Lies;De Backere;Stepp vzw;info@stepp.be;http://www.stepp.be/;C;
+Simon;Leenknegt;Kunstenpunt;simon@kunsten.be;https://www.kunsten.be/en/;C;
+Bert;Moerman;Gemeente Knokke-Heist;bert.moerman@knokke-heist.be;https://www.knokke-heist.be/;C;
+Bram;Wiercx;FARO;bram.wiercx@faro.be;https://faro.be/;C;
+Nick;Beerens;Formaat vzw;nick.beerens@formaat.be;https://formaat.be/;C;
