@@ -1,22 +1,22 @@
 {
-    "naam": "Applicatieprofiel Cultuur- en Jeugdinfrastructuur",
+    "naam": "Vocabularium Cultuur- en Jeugdinfrastructuur",
     "rapport": "",
     "verantwoordelijke_organisatie": "Departement Cultuur, Jeugd en Media",
     "identificator_organisatie": "http://data.vlaanderen.be/id/organisatie/OVO000067",
     "publicatiedatum": "2022-03-21",
     "type_toepassing": "Aanbevolen (vrijwillig)",
-    "categorie": "Applicatieprofiel",
-    "beschrijving": "ap-doelgericht-cultuur-en-jeugd-config.md",
+    "categorie": "Vocabularium",
+    "beschrijving": "voc-doelgericht-cultuur-en-jeugd-config.md",
     "specificatiedocument": [
-        {
-            "naam": "Applicatieprofiel Cultuur- & Jeugdinfrastructuur",
-            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur"
-        } 
-    ],
-    "documentatie": [
         {
             "naam": "Vocabularium Cultuur- & Jeugdinfrastructuur",
             "waarde": "https://data.vlaanderen.be/ns/cultuur-en-jeugdinfrastructuur"
+        }
+    ],
+    "documentatie": [
+        {
+            "naam": "Applicatieprofiel Cultuur- & Jeugdinfrastructuur",
+            "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/cultuur-en-jeugdinfrastructuur"
         }
     ],
     "charter": [
