@@ -1,6 +1,7 @@
 [
   {
-    "name": "cultuurenjeugdinfrastructuur-voc",
+    "name": "infrastructuur",
+    "prefix": "cultuur-en-jeugd",
     "type": "voc",
     "eap": "CultuurEnJeugdinfrastructuur.eap",
     "diagram": "OSLO-CultuurEnJeugdinfrastructuur",
